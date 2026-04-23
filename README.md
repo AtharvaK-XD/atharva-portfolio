@@ -77,9 +77,3 @@ Email: kulkarniatharva529@gmail.com
 Why This Portfolio Stands Out
 This portfolio combines a strong cyber aesthetic with clear personal branding and direct project access, which helps visitors quickly understand both technical interests and practical work.
 ​ The design also supports recruiter and collaborator outreach by making projects and contact options easy to reach.
-​
-
-Repository Use
-This README works well for a GitHub repository that hosts the portfolio source code or deployment assets.
-​ It gives visitors a clean overview of the project before they explore the files or visit the live site.
-​
