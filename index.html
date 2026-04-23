@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en" data-mode="normal">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Atharva Kulkarni | Portfolio</title>
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23010504'/><text x='50' y='55' font-family='system-ui, sans-serif' font-weight='800' font-size='50' fill='%2318ff8c' text-anchor='middle' dominant-baseline='middle'>AK</text></svg>" />
+  <meta name="description"
+    content="Atharva Kulkarni - engineering student, developer, and builder creating interactive web experiences." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="bg-gradient" aria-hidden="true"></div>
+  <div class="bg-grid" aria-hidden="true"></div>
+  <div class="bg-scanlines" aria-hidden="true"></div>
+  <div class="bg-noise" aria-hidden="true"></div>
+  <canvas id="matrixRain" class="matrix-rain" aria-hidden="true"></canvas>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#hero">AK</a>
+      <nav class="nav">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="hero" class="section hero reveal">
+      <div class="container hero-grid">
+        <div class="hero-copy terminal-window">
+          <div class="terminal-top">
+            <span></span><span></span><span></span>
+            <p>atharva-profile.exe</p>
+          </div>
+          <p class="eyebrow" data-hacker-label="[ public profile ]">Welcome</p>
+          <h1 class="glitch-text" data-text="Atharva Kulkarni">Atharva Kulkarni</h1>
+          <p class="subtitle">Cybersecurity Enthusiast, Frontend Developer and Builder</p>
+          <p class="intro">
+            I design and build interactive digital experiences with clean logic, strong visuals, and
+            user-first thinking.
+          </p>
+          <div class="cta-row">
+            <a class="btn btn-secondary" href="#projects">View Projects</a>
+            <a class="btn btn-secondary" href="#contact">Contact Me</a>
+          </div>
+        </div>
+        <aside class="hero-panel terminal-window" aria-label="Quick profile stats">
+          <div class="terminal-top">
+            <span></span><span></span><span></span>
+            <p>system-metrics.log</p>
+          </div>
+          <p class="panel-title">Snapshot</p>
+          <div class="stat-grid">
+            <article>
+              <p class="stat-value">3</p>
+              <p class="stat-label">Featured Builds</p>
+            </article>
+            <article>
+              <p class="stat-value">Cyber Security</p>
+              <p class="stat-label">Focus Area</p>
+            </article>
+            <article>
+              <p class="stat-value">UI/UX</p>
+              <p class="stat-label">Craft</p>
+            </article>
+            <article>
+              <p class="stat-value">Always</p>
+              <p class="stat-label">Learning</p>
+            </article>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="about" class="section reveal">
+      <div class="container">
+        <p class="eyebrow" data-hacker-label="[ operator briefing ]">About</p>
+        <h2>About Me</h2>
+        <div class="about-grid">
+          <p class="about-text">
+            Passionate about breaking things ethically and building things intelligently. As a cybersecurity enthusiast,
+            I explore both offensive and defensive security to understand and protect complex digital systems. Python is
+            my weapon of choice for automating tasks and building security tools. Beyond core security, I love expanding
+            my tech horizon through modern frontend web development and crafting intuitive interfaces. My ultimate goal
+            is to become a versatile professional who thinks like an attacker but builds like a defender, and I am
+            always open to new collaborations and learning opportunities.
+          </p>
+          <aside class="info-panel terminal-window">
+            <div class="terminal-top">
+              <span></span><span></span><span></span>
+              <p>identity-dossier.sec</p>
+            </div>
+            <p class="panel-title">Contact / Identity Panel</p>
+            <a class="info-link" href="mailto:kulkarniatharva529@gmail.com">Email: kulkarniatharva529@gmail.com</a>
+            <a class="info-link" href="https://github.com/AtharvaK-XD" target="_blank" rel="noopener noreferrer">GitHub:
+              AtharvaK-XD</a>
+            <a class="info-link" href="https://www.linkedin.com/in/atharva-kulkarni-a16a5a3b9/" target="_blank"
+              rel="noopener noreferrer">LinkedIn: atharva-kulkarni-a16a5a3b9</a>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="section reveal">
+      <div class="container">
+        <p class="eyebrow" data-hacker-label="[ mission archives ]">Projects</p>
+        <h2>Featured Projects</h2>
+        <div class="project-grid">
+          <a class="project-card" href="https://rootlock.netlify.app" target="_blank" rel="noopener noreferrer">
+            <p class="node-state">encrypted</p>
+            <p class="project-tag">Project 01</p>
+            <h3>Rootlock</h3>
+            <p>RootLock is a password analyzer that tells you whether a password is strong or easy to crack and shows
+              the estimated time it would take to break it.</p>
+            <span class="card-btn">Open Project</span>
+          </a>
+          <a class="project-card" href="https://pickmyspot.netlify.app" target="_blank" rel="noopener noreferrer">
+            <p class="node-state">live</p>
+            <p class="project-tag">Project 02</p>
+            <h3>PickMySpot</h3>
+            <p>PickMySpot is a smart app that helps users easily find, book, and manage seats in real time across places
+              like libraries, offices, and events.</p>
+            <span class="card-btn">Open Project</span>
+          </a>
+          <a class="project-card" href="https://geovault.netlify.app" target="_blank" rel="noopener noreferrer">
+            <p class="node-state">stable</p>
+            <p class="project-tag">Project 03</p>
+            <h3>GeoVault</h3>
+            <p>GeoVault is a fictional sci-fi web app where you can "buy" entire countries, featuring a stunning 3D
+              globe and a slick marketplace UI. </p>
+            <span class="card-btn">Open Project</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section id="skills" class="section reveal">
+      <div class="container">
+        <p class="eyebrow" data-hacker-label="[ system capabilities ]">Skills</p>
+        <h2>Technical Skills</h2>
+        <div class="skills-wrap">
+          <button class="skill-chip">Ethical Hacking</button>
+          <button class="skill-chip">Kali Linux</button>
+          <button class="skill-chip">Cybersecurity Principles</button>
+          <button class="skill-chip">Offensive Security</button>
+          <button class="skill-chip">Defensive Security</button>
+          <button class="skill-chip">Python</button>
+          <button class="skill-chip">Python Automation</button>
+          <button class="skill-chip">Security Tool Building</button>
+          <button class="skill-chip">Scripting</button>
+          <button class="skill-chip">HTML</button>
+          <button class="skill-chip">CSS</button>
+          <button class="skill-chip">Figma</button>
+          <button class="skill-chip">Graphic Design</button>
+          <button class="skill-chip">Canva</button>
+          <button class="skill-chip">Vibe Coding</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="soft-skills" class="section reveal">
+      <div class="container">
+        <p class="eyebrow" data-hacker-label="[ soft capabilities ]">Soft Skills</p>
+        <h2>Non-Technical Skills</h2>
+        <div class="skills-wrap">
+          <button class="skill-chip">Communication</button>
+          <button class="skill-chip">Teamwork</button>
+          <button class="skill-chip">Problem-Solving</button>
+          <button class="skill-chip">Critical Thinking</button>
+          <button class="skill-chip">Time Management</button>
+          <button class="skill-chip">Adaptability</button>
+          <button class="skill-chip">Learning Mindset</button>
+          <button class="skill-chip">Leadership</button>
+          <button class="skill-chip">Emotional Intelligence</button>
+          <button class="skill-chip">Decision-Making</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section reveal">
+      <div class="container">
+        <p class="eyebrow" data-hacker-label="[ connect handshake ]">Contact</p>
+        <h2 class="glitch-text" data-text="Let's Collaborate">Let's Collaborate</h2>
+        <p class="contact-copy">
+          Open to collaboration, freelance opportunities, and creative technical projects.
+        </p>
+        <div class="contact-links">
+          <a class="btn btn-secondary" href="mailto:kulkarniatharva529@gmail.com">Email Me</a>
+          <a class="btn btn-secondary" href="https://github.com/AtharvaK-XD" target="_blank"
+            rel="noopener noreferrer">GitHub</a>
+          <a class="btn btn-secondary" href="https://www.linkedin.com/in/atharva-kulkarni-a16a5a3b9/" target="_blank"
+            rel="noopener noreferrer">LinkedIn</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>&copy; <span id="year"></span> Atharva Kulkarni. All rights reserved.</p>
+      <div class="footer-links">
+        <a href="mailto:kulkarniatharva529@gmail.com">Email</a>
+        <a href="https://github.com/AtharvaK-XD" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="https://www.linkedin.com/in/atharva-kulkarni-a16a5a3b9/" target="_blank"
+          rel="noopener noreferrer">LinkedIn</a>
+      </div>
+    </div>
+  </footer>
+
+  <button id="modeToggle" class="mode-toggle mode-toggle-floating" aria-label="Toggle Normal and Hacker mode">
+    <span class="mode-label mode-label-normal">Normal</span>
+    <span class="mode-switch-track">
+      <span class="mode-switch-thumb"></span>
+    </span>
+    <span class="mode-label mode-label-hacker">Hacker</span>
+  </button>
+  <script src="script.js"></script>
+</body>
+
+</html>
