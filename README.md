@@ -65,9 +65,6 @@ Links
 Live Site: portfolio-atharvak.netlify.app
 ​
 
-GitHub: AtharvaK-XD
-​
-
 LinkedIn: atharva-kulkarni-a16a5a3b9
 ​
 
