@@ -70,7 +70,3 @@ LinkedIn: atharva-kulkarni-a16a5a3b9
 
 Email: kulkarniatharva529@gmail.com
 ​
-
-Why This Portfolio Stands Out
-This portfolio combines a strong cyber aesthetic with clear personal branding and direct project access, which helps visitors quickly understand both technical interests and practical work.
-​ The design also supports recruiter and collaborator outreach by making projects and contact options easy to reach.
