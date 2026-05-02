@@ -1,63 +1,40 @@
-Atharva Kulkarni Portfolio
-A cyber-themed personal portfolio website built to showcase Atharva Kulkarni's profile, featured projects, technical skills, and contact information.
+# Hi, I'm Atharva Kulkarni 👋
 
-Live Demo: portfolio-atharvak.netlify.app
+## Cybersecurity Enthusiast | Frontend Developer | Builder
 
-About the Project
-This portfolio presents Atharva Kulkarni as a cybersecurity enthusiast, frontend developer, and builder focused on creating interactive digital experiences with strong visuals and user-first design.
+A cyber-themed personal portfolio built to showcase my profile, featured projects, technical skills, and contact information.
 
-The website follows a hacker-inspired visual direction with terminal-style sections, glitch text, layered background effects, and a matrix-rain canvas element.
+### Live Demo
+[portfolio-atharvak.netlify.app](https://portfolio-atharvak.netlify.app)
 
-Features
-Hero section with personal introduction and quick profile snapshot.
+---
 
-About section highlighting cybersecurity interest, Python automation, and frontend development focus.
+## About Me
 
-Featured projects section with live links to deployed work.
+I am passionate about cybersecurity, frontend development, and building interactive digital experiences with strong visuals and user-first design.
 
-Technical and soft skills sections for a complete profile overview.
+My work focuses on:
+- Ethical hacking and security concepts.
+- Python-based automation and scripting.
+- Frontend development and intuitive web interfaces.
+- Security tool creation and problem-solving.
 
-Contact section with direct links to email, GitHub, and LinkedIn.
+---
 
-Portfolio Sections
-Hero
-The landing section introduces Atharva Kulkarni and positions the portfolio around cybersecurity, frontend development, and digital building. It also includes call-to-action buttons for viewing projects and contacting the developer.
+## Featured Projects
 
-About
-The About section explains an interest in ethical hacking, offensive and defensive security, Python-based automation, security tool creation, and intuitive web interfaces.
+### RootLock
+A password analyzer that checks strength and estimates crack time.
 
-Projects
-The website currently highlights three featured builds:
+### PickMySpot
+A smart seat booking and management app for places like libraries, offices, and events.
 
-RootLock — Password analyzer that checks strength and estimates crack time.
+### GeoVault
+A fictional sci-fi marketplace web app with a 3D globe concept.
 
-PickMySpot — Smart seat booking and management app for places like libraries, offices, and events.
+---
 
-GeoVault — Fictional sci-fi marketplace web app with a 3D globe concept.
+## Technical Skills
 
-Skills
-The site includes technical skills such as ethical hacking, Kali Linux, Python, scripting, HTML, CSS, Figma, Canva, and security tool building, along with soft skills like communication, teamwork, leadership, and problem-solving.
-
-Contact
-The contact section is designed for collaboration, freelance work, and creative technical opportunities through email and social links.
-
-Tech Stack
-Based on the site source, the portfolio uses static web technologies with:
-
-HTML
-
-CSS
-
-Google Fonts
-
-Browser-based visual effects
-
-Its presentation emphasizes frontend design and interactive styling over complex backend functionality.
-
-Links
-Live Site: portfolio-atharvak.netlify.app
-
-LinkedIn: atharva-kulkarni-a16a5a3b9
-
-Email: kulkarniatharva529@gmail.com
-
+- Ethical Hacking
+- Kali 
