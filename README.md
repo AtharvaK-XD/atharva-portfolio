@@ -37,4 +37,32 @@ A fictional sci-fi marketplace web app with a 3D globe concept.
 ## Technical Skills
 
 - Ethical Hacking
-- Kali 
+- Kali Linux
+- Python
+- Scripting
+- HTML
+- CSS
+- Figma
+- Canva
+- Security Tool Building
+
+---
+
+## Soft Skills
+
+- Communication
+- Teamwork
+- Leadership
+- Problem Solving
+
+---
+
+## Contact Me
+
+- Email: [kulkarniatharva529@gmail.com](mailto:kulkarniatharva529@gmail.com)
+- LinkedIn: [atharva-kulkarni-a16a5a3b9](https://www.linkedin.com/in/atharva-kulkarni-a16a5a3b9/)
+- GitHub: [Your GitHub Profile](https://github.com/)
+
+---
+
+> Building secure, creative, and interactive digital experiences.
