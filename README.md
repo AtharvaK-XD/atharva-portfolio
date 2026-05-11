@@ -1,4 +1,4 @@
-# Hi, I'm Atharva Kulkarni 👋
+# Hi, I'm Atharva Kulkarni 
 
 ## Cybersecurity Enthusiast | Frontend Developer | Builder
 
