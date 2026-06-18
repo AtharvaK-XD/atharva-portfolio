@@ -94,6 +94,3 @@ Peer-to-peer rental marketplace for campus communities.
 
 Open to collaboration, freelance work, hackathons, and creative technical projects.
 
-***
-
-> Building experiences that look sharp, work fast, and solve real problems.
