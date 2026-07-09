@@ -90,7 +90,3 @@ Peer-to-peer rental marketplace for campus communities.
 - Security-minded product development
 - Faster ways to ship MVPs
 
-## Contact
-
-Open to collaboration, freelance work, hackathons, and creative technical projects.
-
